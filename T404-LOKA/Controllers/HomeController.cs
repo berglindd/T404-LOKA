@@ -11,6 +11,7 @@ namespace T404_LOKA.Controllers
         public IActionResult Index()
         {
             return View();
+            //This is a comment 
         }
 
         public IActionResult About()
